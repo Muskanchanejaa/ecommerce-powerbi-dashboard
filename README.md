@@ -1,3 +1,4 @@
+![Dashboard Preview](Power BI Dashboard.png)
 # E-Commerce Sales Performance Dashboard
 
 ## Problem Statement
