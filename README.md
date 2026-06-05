@@ -1,4 +1,7 @@
-![Dashboard Preview](Power BI Dashboard.png)
+
+<img width="1342" height="752" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/548070b0-a6b9-4bfd-b9e0-2aa0b945ad32" />
+
+
 # E-Commerce Sales Performance Dashboard
 
 ## Problem Statement
